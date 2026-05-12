@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 90" role="img" aria-labelledby="title desc">
+  <title id="title">Wanjia Dasheng Logo</title>
+  <desc id="desc">Wordmark logo for Chengdu Wanjia Dasheng Technology Co., Ltd</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1f2d"/>
+      <stop offset="100%" stop-color="#2b6f8a"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d8a95a"/>
+      <stop offset="100%" stop-color="#f0d7a1"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="86" height="86" rx="18" fill="url(#g1)"/>
+  <path d="M19 62 L33 22 L45 49 L58 30 L71 62" fill="none" stroke="url(#g2)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="33" cy="22" r="4" fill="#f0d7a1"/>
+  <circle cx="58" cy="30" r="4" fill="#f0d7a1"/>
+  <text x="102" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#102638" letter-spacing="1.5">WANJIA DASHENG</text>
+  <text x="104" y="66" font-family="Arial, sans-serif" font-size="12" fill="#466075" letter-spacing="2">CHENGDU TECHNOLOGY GROUP</text>
+</svg>
